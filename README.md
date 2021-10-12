@@ -2,6 +2,8 @@
 
 ## 🤹 What is Fusion Teams?
 
+...
+
 ## What to expect from this workshop?
 After this workshop, you will have built your first application in a fusion development context. With this experience you will be able to:
 
