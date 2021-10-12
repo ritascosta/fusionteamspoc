@@ -11,7 +11,7 @@ After this workshop, you will have built your first application in a fusion deve
 
 You can find below the steps to achieve this goal:
 
-1. Bring a team together to solve a business need/challenge with an app
-3. List/Create the APIs needed and make them available 
-4. Export the APIs as Power Platform connector
-5. Build a Canvas App with Power Apps
+1. Bring a **team** together to solve a business need/challenge with an app
+3. List/Create the **APIs** needed and make them available 
+4. Export the APIs as **Power Platform connector**
+5. Build a **Canvas App** with Power Apps
