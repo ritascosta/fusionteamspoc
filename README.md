@@ -2,7 +2,7 @@
 
 ## 🤹 What is Fusion Teams?
 
-## What you will do in this workshop?
+## What to expect from this workshop?
 After this workshop, you will have built your first application in a fusion development context. With this experience you will be able to:
 
 - Solve a business challenge with an app built together by a pro developer and a citizen developer 
